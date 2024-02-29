@@ -1,7 +1,5 @@
 # Caos
-Trabajo de Series temporales y sistemas dinamicos
-Separacion en componentes de la serie: tendencia, componente estacional y aleatoria
-Autocorrelacion
-FFT
-Embedding
+"Time Series and Dynamic Systems Work Decomposition into Series Components: Trend, Seasonal Component, and Random Autocorrelation
+Fast Fourier Transform (FFT)
+Embedding"
 
