@@ -3,4 +3,4 @@
 Fast Fourier Transform (FFT)
 Embedding"
 
-![image](https://github.com/tin7/Caos/assets/87256238/294593b4-8a8d-4eb0-96fd-5639db163644)
+(https://github.com/tin7/Caos/assets/87256238/294593b4-8a8d-4eb0-96fd-5639db163644)
